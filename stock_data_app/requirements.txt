@@ -1,0 +1,5 @@
+gunicorn
+bs4
+requests
+manage
+flask
